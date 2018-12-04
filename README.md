@@ -21,3 +21,7 @@
 ## Slides
 
 Slides can be downloaded [here](https://github.com/gartdan/OmahaDevDays/tree/master/Slides)
+
+## Azure Functions
+
+- [Azure Function Library - Open Source Library](https://serverlesslibrary.net/)
