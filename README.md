@@ -30,3 +30,4 @@ Slides can be downloaded [here](https://github.com/gartdan/OmahaDevDays/tree/mas
 ## Azure Functions
 
 - [Azure Function Library - Open Source Library](https://serverlesslibrary.net/)
+- [Linux Consumption Plan / Python Support](https://azure.microsoft.com/en-us/blog/azure-functions-gets-better-for-python-and-javascript-developers/)
