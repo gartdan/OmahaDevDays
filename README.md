@@ -12,6 +12,8 @@
 - [Greg Hoelzer - Serverless & Containers](https://www.linkedin.com/in/gregoryhoelzer/)
 - [Dave Burnison - DevOps](https://www.linkedin.com/in/daveburnison/)
 - [Jonathan Scholtes - AI](https://www.linkedin.com/in/jonathanscholtes/)
+- [John Grange - OpsCompass](https://www.linkedin.com/in/john-grange-190ba652/)
+- [David Kerber - OpsCompass](https://www.linkedin.com/in/davidkerber/)
 
 ## Azure Learning Resources for Developers
 
