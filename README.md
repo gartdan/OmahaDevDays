@@ -13,6 +13,11 @@
 - [Dave Burnison - DevOps](https://www.linkedin.com/in/daveburnison/)
 - [Jonathan Scholtes - AI](https://www.linkedin.com/in/jonathanscholtes/)
 
+## Partners
+
+- [OpsCompass](https://www.opscompass.com/)
+- [Ascent Solutions](https://www.ascentclouds.com/)
+
 ## Azure Learning Resources for Developers
 
 - [Microsoft Connect() 2018](https://www.microsoft.com/en-us/connectevent/)
